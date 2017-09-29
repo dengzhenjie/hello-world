@@ -1,2 +1,2 @@
 # hello-world
-my first github repository
+Hi, everyone! I'm dengzhenjie
